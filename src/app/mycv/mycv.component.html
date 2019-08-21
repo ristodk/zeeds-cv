@@ -1,0 +1,50 @@
+<mat-toolbar class="gradient">
+    <h1>CV - Risto Paananen</h1>
+</mat-toolbar>
+<section class="intro">
+    <span>
+      <h2>Passioneret Frontender med UX kompetencer.</h2>
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio nemo totam nostrum nisi fugit corrupti quidem obcaecati officia, deleniti, corporis doloribus asperiores voluptatibus omnis adipisci sequi assumenda ut commodi, vero voluptate porro at
+        harum eaque. Esse sapiente alias ad veniam eligendi dolores cum, voluptatem vitae, expedita rerum velit accusantium dolore?</p>
+    </span>
+    <img src="https://picsum.photos/id/1/500/200" alt="kandidaten" height="200" width="500">
+</section>
+<mat-tab-group>
+    <mat-tab label="Experience" >
+        <div class="container clearfix" > 
+           <mat-card *ngFor="let item of cvdata">
+                <mat-card-header>
+                    <div mat-card-avatar>
+                        <mat-icon>{{item.type}}</mat-icon>
+                    </div>
+                    <mat-card-title>{{item.title}} - {{item.place}}</mat-card-title>
+                </mat-card-header>
+                <mat-card-content>
+                    <p><strong>{{item.year}}</strong> - {{item.description}}</p>
+                    <a href="{{item.siteurl}}" target="_blank"><button mat-raised-button color="accent">See more</button></a>
+                </mat-card-content>
+            </mat-card>
+            </div>
+    </mat-tab>
+    <mat-tab label="Contact Details">
+        <div class="container2 clearfix">
+            <ul>
+                <span class="imgholder">
+                 <img src="https://picsum.photos/id/3/150/280" alt="kandidaten" height="280" width="150">
+                </span>
+                <li>
+                    <h3>Contact Details:</h3>
+                </li>
+                <li>
+                    <span><mat-icon>phone</mat-icon> 30711143</span>
+                </li>
+                <li>
+                    <mat-icon>email</mat-icon> ristodk@gmail.com
+                </li>
+                <li>
+                    <mat-icon>home</mat-icon> 8721 Daugård
+                </li>
+            </ul>
+        </div>
+    </mat-tab>
+</mat-tab-group>

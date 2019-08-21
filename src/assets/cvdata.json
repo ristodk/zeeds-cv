@@ -1,0 +1,81 @@
+[{
+        "type": "work",
+        "year": "2019-present",
+        "title": "Frontender",
+        "place": "Zeeds",
+        "siteurl": "#",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate, corrupti quidem explicabo nihil veniam minima est quaerat quam non ab optio quod quia ipsa id, cumque architecto omnis officiis basta?"
+    },
+    {
+        "type": "work",
+        "year": "2019",
+        "title": "Full-stacker",
+        "place": "Uptime",
+        "siteurl": "https://uptimedevelopment.dk/",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate, corrupti quidem explicabo nihil veniam minima est quaerat quam non ab optio quod quia ipsa id, cumque architecto omnis officiis basta?"
+    },
+    {
+        "type": "school",
+        "year": "2017-2018",
+        "title": "Cand.Merc.IT",
+        "place": "CBS",
+        "siteurl": "https://www.cbs.dk/en/study/graduate/msc-in-business-administration-and-e-business",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate, corrupti quidem explicabo nihil veniam minima est quaerat quam non ab optio quod quia ipsa id, cumque architecto omnis officiis basta?"
+    },
+    {
+        "type": "work",
+        "year": "2016",
+        "title": "Full-stacker",
+        "place": "Lomax",
+        "siteurl": "https://www.lomax.dk/",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate, corrupti quidem explicabo nihil veniam minima est quaerat quam non ab optio quod quia ipsa id, cumque architecto omnis officiis basta?"
+    },
+    {
+        "type": "school",
+        "year": "2015-2016",
+        "title": "Webudvikler",
+        "place": "ZIBAT",
+        "siteurl": "https://zealand.com/ba-web-development-programme/",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate, corrupti quidem explicabo nihil veniam minima est quaerat quam non ab optio quod quia ipsa id, cumque architecto omnis officiis basta?"
+    },
+    {
+        "type": "work",
+        "year": "2014",
+        "title": "Kommunikation",
+        "place": "Frederiksborg",
+        "siteurl": "http://frederiksborgcentret.dk/",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate, corrupti quidem explicabo nihil veniam minima est quaerat quam non ab optio quod quia ipsa id, cumque architecto omnis officiis basta?"
+    },
+    {
+        "type": "school",
+        "year": "2012-2013",
+        "title": "Multimediedesigner",
+        "place": "CPH Biz",
+        "siteurl":"https://www.cphbusiness.dk/uddannelser/erhvervsakademiuddannelser/multimediedesigner",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate, corrupti quidem explicabo nihil veniam minima est quaerat quam non ab optio quod quia ipsa id, cumque architecto omnis officiis basta?"
+    },
+    {
+        "type": "work",
+        "year": "2006-2011",
+        "title": "Pastor",
+        "place": "Local Church",
+        "siteurl": "#",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate, corrupti quidem explicabo nihil veniam minima est quaerat quam non ab optio quod quia ipsa id, cumque architecto omnis officiis basta?"
+    },
+    {
+        "type": "school",
+        "year": "2001-2006",
+        "title": "MA Theology",
+        "place": "University Wales",
+        "siteurl": "#",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate, corrupti quidem explicabo nihil veniam minima est quaerat quam non ab optio quod quia ipsa id, cumque architecto omnis officiis basta?"
+    },
+    {
+        "type": "school",
+        "year": "2002-2005",
+        "title": "Psychology",
+        "place": "Newbold College",
+        "siteurl": "#",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate, corrupti quidem explicabo nihil veniam minima est quaerat quam non ab optio quod quia ipsa id, cumque architecto omnis officiis basta?"
+    }
+]
